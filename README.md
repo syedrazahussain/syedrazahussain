@@ -79,11 +79,11 @@
 
 ## 🎓 Education
 
-Bachelor of Technology (B.Tech) — **Computer Science and Engineering** At **B.E.S.T Innovation University( 2022–2026 )** With **CGPA - 9.56/10**.
+ - Bachelor of Technology (B.Tech) — **Computer Science and Engineering** At **B.E.S.T Innovation University( 2022–2026 )** With **CGPA - 9.56/10**.
 
-Intermediate (12th) - **M.P.C** At **R.K Junior College( 2020-2022 )** With **Marks - 880/1000**.
+ - Intermediate (12th) - **M.P.C** At **R.K Junior College( 2020-2022 )** With **Marks - 880/1000**.
 
-SSC (10th) - **Board of Secondary Education A.P** At **Nirmala Convent School( 2019-2020 )** With **Marks - 586/600**.
+ - SSC (10th) - **Board of Secondary Education A.P** At **Nirmala Convent School( 2019-2020 )** With **Marks - 586/600**.
 
 
 ---
