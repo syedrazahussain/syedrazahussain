@@ -104,7 +104,7 @@
 ## 💼 Selected Projects
 
 
-### 🎬 Internshala Automation Tool 
+### 🤖 Internshala Automation Tool 
 - **Description:** Automated internship applications using headless browser scripting, reducing manual effort by 95% and boosting reach by 4x. 
 - **Features:** Filling automatically internship forms and applying unlimited internship.  
 - **Tech Stack:** Node.js, Puppeteer.  
@@ -112,7 +112,7 @@
 
 ---
 
-### 📺 Vehicall  
+### 🚗 Vehicall  
 - **Description:** Platform to contact vehicle owners in parking zones via secure DB access and phone integration, cutting retrieval time by 60%.**.  
 - **Features:** Register Vehicle, SMS alert, Scan to fetech owner details, and Store scanned details.  
 - **Tech Stack:** PHP, Mysql, HTML, CSS, Javascript.  
@@ -120,7 +120,7 @@
 
 ---
 
-### 💼 Tools Haven – Tool Renting Platform  
+### 🛠️ Tools Haven – Tool Renting Platform  
 - **Description:** Role-based tool-sharing platform with real-time updates & notifications; reduced missed returns by 50% and improved engagement by 70%.  
 - **Features:** Rental and Tools Master login system, Take rent and give rent, Real time Track orders in both Login, Real time tools availabity.  
 - **Tech Stack:** Next.js, Node.js, Express.js, Postgresql, JWT Authentication.  
@@ -128,7 +128,7 @@
   
 ---
 
-### 💼 Civiclink – Tool Renting Platform  
+### 🏢 Civiclink – Tool Renting Platform  
 - **Description:** Multi-role dashboard to report civic issues (water, garbage, roads), improving complaint resolution efficiency by 40%.  
 - **Features:** Raise complaints, track complaints, upload problem with images .  
 - **Tech Stack:** React.js, Node.js, Express.js, Mongodb, JWT Authentication.  
