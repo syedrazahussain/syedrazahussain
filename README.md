@@ -77,15 +77,98 @@
 
 ---
 
-## 👨‍💻 Experience
+## 🎓 Education
 
-💻 Full tack Developer —
+Bachelor of Technology (B.Tech) — **Computer Science and Engineering** At **B.E.S.T Innovation University( 2022–2026 )** With **CGPA - 9.56/10**.
 
-✦ Developed and deployed scalable RESTful APIs, improving data transaction speed by 30%.
-✦ Enhanced UI responsiveness and accessibility across devices, boosting user engagement by 25%.
-✦ Optimized backend queries in PostgreSQL, reducing page load time by 40%.
-✦ Collaborated with cross-functional team to deliver 5+ major features within strict deadlines.
-✦ Resolved critical bugs during on-site deployment, increasing platform reliability.
+Intermediate (12th) - **M.P.C** At **R.K Junior College( 2020-2022 )** With **Marks - 880/1000**.
+
+SSC (10th) - **Board of Secondary Education A.P** At **Nirmala Convent School( 2019-2020 )** With **Marks - 586/600**.
 
 
 ---
+
+## 👨‍💻 Experience
+
+### 💻 Full Stack Developer — Scuts Technologies Private limited(Sep-2024 to Mar-2025)
+
+-  Developed and deployed **scalable RESTful APIs**, improving data transaction speed by **30%**.
+-  Enhanced **UI responsiveness** and accessibility across devices, boosting user engagement by **25%**.
+-  **Optimized** backend queries in **PostgreSQL**, reducing page load time by **40%**.
+-  Collaborated with cross-functional team to **deliver 5+ major features** within **strict deadlines**.
+-  **Resolved** critical **bugs** during on-site deployment, increasing platform **reliability**.
+
+
+---
+
+## 💼 Selected Projects
+
+
+### 🎬 Internshala Automation Tool 
+- **Description:** Automated internship applications using headless browser scripting, reducing manual effort by 95% and boosting reach by 4x. 
+- **Features:** Filling automatically internship forms and applying unlimited internship.  
+- **Tech Stack:** Node.js, Puppeteer.  
+- 🔗 [Preview](https://syedrazahussainportfolio.pages.dev/internshala)
+
+---
+
+### 📺 Vehicall  
+- **Description:** Platform to contact vehicle owners in parking zones via secure DB access and phone integration, cutting retrieval time by 60%.**.  
+- **Features:** Register Vehicle, SMS alert, Scan to fetech owner details, and Store scanned details.  
+- **Tech Stack:** PHP, Mysql, HTML, CSS, Javascript.  
+- 🔗 [Preview](http://vehicall.great-site.net/)
+
+---
+
+### 💼 Tools Haven – Tool Renting Platform  
+- **Description:** Role-based tool-sharing platform with real-time updates & notifications; reduced missed returns by 50% and improved engagement by 70%.  
+- **Features:** Rental and Tools Master login system, Take rent and give rent, Real time Track orders in both Login, Real time tools availabity.  
+- **Tech Stack:** Next.js, Node.js, Express.js, Postgresql, JWT Authentication.  
+- 🔗 [Preview](https://tools-haven.vercel.app/)
+  
+---
+
+### 💼 Civiclink – Tool Renting Platform  
+- **Description:** Multi-role dashboard to report civic issues (water, garbage, roads), improving complaint resolution efficiency by 40%.  
+- **Features:** Raise complaints, track complaints, upload problem with images .  
+- **Tech Stack:** React.js, Node.js, Express.js, Mongodb, JWT Authentication.  
+- 🔗 [Preview](https://civiclink1.netlify.app/)
+
+  ---
+
+## 🏆 Achievements & Events
+
+- 🥇 Won **2nd place** in **Code Debugging** at Utkarsh 2K25, among **30+ colleges** and highlighted in **telugu's newspaper** as **good code debugging skills**.  
+- 💡 Finalist in **Tech Quiz** at Enlight Degree College, tested on **DBMS, Web, C, and Python**.
+- 👩‍💻 Deployed **5+ Full stack projects** to solve **real world problems**.
+- ✨ Participated in **AWSome Day Online Conference**, exploring **AWS cloud services** and **infrastructure**.
+
+---
+
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrazahussain&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedrazahussain1512" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:srazahussain123@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/syedrazahussain" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="tel:+918639945414">
+    <img align="center" src="https://img.shields.io/badge/Phone-%2300C853.svg?style=flat&logo=phone&logoColor=white" alt="phone" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting — Keep Learning, Keep Building, Keep Growing! ✨</p>
