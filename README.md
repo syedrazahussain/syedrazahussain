@@ -128,7 +128,7 @@
   
 ---
 
-### 🏢 Civiclink – Tool Renting Platform  
+### 🏢 Civiclink
 - **Description:** Multi-role dashboard to report civic issues (water, garbage, roads), improving complaint resolution efficiency by 40%.  
 - **Features:** Raise complaints, track complaints, upload problem with images .  
 - **Tech Stack:** React.js, Node.js, Express.js, Mongodb, JWT Authentication.  
