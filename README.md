@@ -138,11 +138,13 @@
 
 ## 🏆 Achievements & Events
 
-- 🥇 Won **2nd place** in **Code Debugging** at Utkarsh 2K25, among **30+ colleges** and highlighted in **telugu's newspaper** as **good code debugging skills**.  
-- 💡 Finalist in **Tech Quiz** at Enlight Degree College, tested on **DBMS, Web, C, and Python**.
-- 👩‍💻 Deployed **5+ Full stack projects** to solve **real world problems**.
-- ✨ Participated in **AWSome Day Online Conference**, exploring **AWS cloud services** and **infrastructure**.
+- 🏆 Secured **2nd Place in Code Debugging** at Utkarsh 2K25, competing against **30+ colleges**; recognized in a leading **Telugu daily newspaper** for **strong debugging** and **problem-solving skills.**
 
+- 💡 **Finalist** in **Technical Quiz** at Enlight Degree College, evaluated on **DBMS**, **Web Technologies**, **C**, and **Python**, ranking among the top participants.
+
+- 👩‍💻 Designed, developed, and **deployed** **5+ full-stack applications**, addressing real-world use cases using modern web technologies (**frontend**, **backend**, and **database** integration).
+
+- ☁️ Participated in **AWSome Day Online Conference**, gaining hands-on exposure to AWS core services, cloud architecture, and infrastructure fundamentals.
 ---
 
 
