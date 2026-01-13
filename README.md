@@ -136,7 +136,7 @@
 
   ---
 
-## 🏆 Achievements & Events
+## 🥇 Achievements & Highlights
 
 - 🏆 Secured **2nd Place in Code Debugging** at Utkarsh 2K25, competing against **30+ colleges**; recognized in a leading **Telugu daily newspaper** for **strong debugging** and **problem-solving skills.**
 
