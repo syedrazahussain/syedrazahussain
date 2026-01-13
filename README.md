@@ -13,8 +13,9 @@
 - 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.
 - 👨‍💻 Completed **4+ Production-ready** and **Problem solving** Projects.  
 - 🧠 Focused on **clean code**, **system design**, and **modern web performance optimization**.  
-- 📫 Email: **srazahussain123@gmail.com**  
-- 📱 Phone: **+91 8639945414** 
+- 📫 Reach me at **srazahussain123@gmail.com** | 📱 **+91 8639945414**
+- 🌐 Portfolio: **https://syedrazahussainportfolio.pages.dev**
+
 
 
 ---
