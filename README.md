@@ -116,7 +116,7 @@
 - **Description:** Platform to contact vehicle owners in parking zones via secure DB access and phone integration, cutting retrieval time by 60%.**.  
 - **Features:** Register Vehicle, SMS alert, Scan to fetech owner details, and Store scanned details.  
 - **Tech Stack:** PHP, Mysql, HTML, CSS, Javascript.  
-- 🔗 [Preview](http://vehicall.great-site.net/)
+- 🔗 [Preview](https://vehicall1.yzz.me/)
 
 ---
 
