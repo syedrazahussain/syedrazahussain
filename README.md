@@ -160,6 +160,12 @@
   <a href="https://www.linkedin.com/in/syedrazahussain1512" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+ <a href="https://syedrazahussainportfolio.pages.dev/" target="_blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white" 
+       alt="portfolio" />
+</a>
+
   <a href="mailto:srazahussain123@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" />
   </a>
