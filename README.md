@@ -114,9 +114,15 @@
 ---
 ### 🏥 BedMitra – Real-Time ICU Bed Availability Platform
 - **Description:** The platform connects patients, hospitals, and administrators, allowing hospitals to update ICU bed availability and enabling users to search for nearby hospitals based on real-time availability.
-- **Features:** Filling automatically internship forms and applying unlimited internship.  
+- **Features:** - 🏥 Real-time ICU bed availability tracking
+- 🔍 Hospital search and availability checking
+- 📍 Hospital information and location details
+- 👨‍⚕️ Hospital-side bed availability management
+- 🔐 Role-based access for users, hospitals, and administrators
+- 📊 Admin dashboard for managing hospitals and bed data
+- 📱 Responsive and user-friendly interface
 - **Tech Stack:** React.js.Express.js,Node.js, Postgresql,Motions.  
-- 🔗 [Preview](https://syedrazahussainportfolio.pages.dev/internshala)
+- 🔗 [Preview](https://bedmitra.vercel.app/)
 
 ---
 
