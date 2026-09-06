@@ -80,7 +80,7 @@
 
 ## 🎓 Education
 
- - Bachelor of Technology (B.Tech) — **Computer Science and Engineering** At **B.E.S.T Innovation University( 2022–2026 )** With **CGPA - 9.56/10**.
+ - Bachelor of Technology (B.Tech) — **Computer Science and Engineering** At **B.E.S.T Innovation University( 2022–2026 )** With **CGPA - 9.57/10**.
 
  - Intermediate (12th) - **M.P.C** At **R.K Junior College( 2020-2022 )** With **Marks - 880/1000**.
 
@@ -112,6 +112,14 @@
 - 🔗 [Preview](https://syedrazahussainportfolio.pages.dev/internshala)
 
 ---
+### 🏥 BedMitra – Real-Time ICU Bed Availability Platform
+- **Description:** The platform connects patients, hospitals, and administrators, allowing hospitals to update ICU bed availability and enabling users to search for nearby hospitals based on real-time availability.
+- **Features:** Filling automatically internship forms and applying unlimited internship.  
+- **Tech Stack:** React.js.Express.js,Node.js, Postgresql,Motions.  
+- 🔗 [Preview](https://syedrazahussainportfolio.pages.dev/internshala)
+
+---
+
 
 ### 🚗 Vehicall  
 - **Description:** Platform to contact vehicle owners in parking zones via secure DB access and phone integration, cutting retrieval time by 60%.**.  
