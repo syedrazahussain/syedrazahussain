@@ -384,9 +384,6 @@
 
 <img src="assets/generated/3d-contrib.svg" width="100%" alt="3D contribution graph" />
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/syedrazahussain/syedrazahussain/output/github-snake-dark.svg" width="100%" alt="snake" />
 
 ### 📈 Contribution Graph
 
