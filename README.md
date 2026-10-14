@@ -57,7 +57,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedrazahussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=00E5FF&text_color=C9D1D9&ring_color=7C4DFF&border_radius=16" width="100%" alt="stats" />
+<img src="assets/generated/stats.svg" width="100%" alt="stats" />
 
 </td>
 </tr>
@@ -364,7 +364,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=syedrazahussain&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+<img src="assets/generated/trophies.svg" alt="trophies" />
 
 </div>
 
@@ -375,8 +375,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedrazahussain&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=FF6D00&currStreakLabel=00E5FF&border_radius=16" height="170" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrazahussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&text_color=C9D1D9&border_radius=16" height="170" alt="top langs" />
+<img src="assets/generated/streak.svg" height="170" alt="streak" />
+<img src="assets/generated/top-langs.svg" height="170" alt="top langs" />
 
 <br/><br/>
 
@@ -390,7 +390,7 @@
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrazahussain&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF" width="100%" alt="activity graph" />
+<img src="assets/generated/activity.svg" width="100%" alt="activity graph" />
 
 </div>
 
