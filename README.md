@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-img src="https://hits.sh/github.com/syedrazahussain.svg?style=for-the-badge&label=Profile%20Views&color=7C4DFF" alt="Profile Views" />
+<img src="https://hits.sh/github.com/syedrazahussain.svg?style=for-the-badge&label=Profile%20Views&color=7C4DFF" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/syedrazahussain?style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117" alt="followers" />
 <img src="https://img.shields.io/github/stars/syedrazahussain?style=for-the-badge&logo=github&color=FFD600&labelColor=0D1117" alt="stars" />
 
