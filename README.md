@@ -45,12 +45,20 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🗄️ Database  
+### 🗄️ Database & Caching 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI & LLM Development
+![LLMs](https://img.shields.io/badge/LLMs-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logo=langchain&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-0A66C2?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-DC244C?style=for-the-badge)
 
 
 ### ☁️ Tools & Platforms  
