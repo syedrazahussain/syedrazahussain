@@ -382,7 +382,7 @@
 
 ### 🧊 3D Contribution Graph
 
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+<img src="assets/generated/3d-contrib.svg" width="100%" alt="3D contribution graph" />
 
 ### 🐍 Contribution Snake
 
