@@ -1,0 +1,11 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C4DFF" stop-opacity="0"/><stop offset=".25" stop-color="#7C4DFF"/><stop offset=".75" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+</linearGradient>
+<filter id="b" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect x="0" y="11" width="1200" height="2" rx="1" fill="url(#g)"/>
+<circle cy="12" r="6" fill="#22D3EE" filter="url(#b)"><animate attributeName="cx" values="0;1200" dur="6s" repeatCount="indefinite"/></circle>
+<circle cy="12" r="3" fill="#fff"><animate attributeName="cx" values="0;1200" dur="6s" repeatCount="indefinite"/></circle>
+</svg>

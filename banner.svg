@@ -1,0 +1,89 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B0F1A"/><stop offset=".55" stop-color="#17113D"/><stop offset="1" stop-color="#0A1D30"/>
+  </linearGradient>
+  <linearGradient id="name" x1="60" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#C4B5FD"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="line" x1="60" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C4DFF"/><stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7C4DFF"/><stop offset=".5" stop-color="#22D3EE" stop-opacity=".6"/><stop offset="1" stop-color="#FF4081"/>
+  </linearGradient>
+  <radialGradient id="o1"><stop stop-color="#7C4DFF" stop-opacity=".55"/><stop offset="1" stop-color="#7C4DFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2"><stop stop-color="#22D3EE" stop-opacity=".4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3"><stop stop-color="#FF4081" stop-opacity=".35"/><stop offset="1" stop-color="#FF4081" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#fff" stroke-opacity=".045"/></pattern>
+  <filter id="glow" x="-20%" y="-30%" width="140%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#7C4DFF" flood-opacity=".6"/></filter>
+  <filter id="card" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".55"/></filter>
+  <clipPath id="clip"><rect width="1200" height="340" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <circle cx="200" cy="40" r="260" fill="url(#o1)"><animate attributeName="cx" values="160;360;160" dur="14s" repeatCount="indefinite"/></circle>
+  <circle cx="1000" cy="300" r="280" fill="url(#o2)"><animate attributeName="cx" values="1050;860;1050" dur="16s" repeatCount="indefinite"/></circle>
+  <circle cx="620" cy="320" r="200" fill="url(#o3)"><animate attributeName="cy" values="340;260;340" dur="11s" repeatCount="indefinite"/></circle>
+  <circle cx="90" cy="40" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="310" cy="300" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="60" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="5s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="640" cy="300" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="6s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="150" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1000" cy="20" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="4s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1170" cy="170" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="5s" begin="2.4000000000000004s" repeatCount="indefinite"/></circle>
+<circle cx="430" cy="320" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="6s" begin="2.8000000000000003s" repeatCount="indefinite"/></circle>
+<circle cx="230" cy="25" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="3s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="880" cy="320" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="4s" begin="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="200" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="5s" begin="4.0s" repeatCount="indefinite"/></circle>
+<circle cx="1100" cy="310" r="1.6" fill="#fff"><animate attributeName="opacity" values=".1;.9;.1" dur="6s" begin="4.4s" repeatCount="indefinite"/></circle>
+
+  <text x="60" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="6" fill="#22D3EE" opacity="0">HELLO, I'M<animate attributeName="opacity" from="0" to="1" begin=".1s" dur=".6s" fill="freeze"/></text>
+  <text x="60" y="185" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="800" fill="url(#name)" filter="url(#glow)" opacity="0">SYED RAZA HUSSAIN<animate attributeName="opacity" from="0" to="1" begin=".3s" dur=".8s" fill="freeze"/></text>
+  <rect x="60" y="205" width="200" height="4" rx="2" fill="url(#line)"><animate attributeName="width" from="0" to="200" begin=".6s" dur=".9s" fill="freeze"/></rect>
+  <text x="60" y="246" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#E2E8F0" opacity="0">Full-Stack Developer  •  MERN Stack  •  AI &amp; LLM<animate attributeName="opacity" from="0" to="1" begin=".9s" dur=".7s" fill="freeze"/></text>
+  <text x="60" y="282" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#94A3B8" opacity="0">Secure, scalable &amp; high-performance web apps  •  DSA  •  System Design<animate attributeName="opacity" from="0" to="1" begin="1.2s" dur=".7s" fill="freeze"/></text>
+
+  <g filter="url(#card)">
+    <rect x="760" y="40" width="380" height="260" rx="18" fill="#0F1424" fill-opacity=".72" stroke="#fff" stroke-opacity=".14"/>
+  </g>
+  <circle cx="786" cy="64" r="5.5" fill="#FF5F56"/><circle cx="806" cy="64" r="5.5" fill="#FFBD2E"/><circle cx="826" cy="64" r="5.5" fill="#27C93F"/>
+  <text x="852" y="69" font-family="Fira Code, Consolas, Menlo, monospace" font-size="13" fill="#64748B">raza.dev.js</text>
+  <line x1="760" y1="84" x2="1140" y2="84" stroke="#fff" stroke-opacity=".1"/>
+  <text x="788" y="116" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#C4B5FD">const </tspan><tspan fill="#E2E8F0">raza </tspan><tspan fill="#94A3B8">= {</tspan><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur=".5s" fill="freeze"/></text>
+<text x="812" y="141" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#7DD3FC">role</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"Full-Stack Developer"</tspan><tspan fill="#94A3B8">,</tspan><animate attributeName="opacity" from="0" to="1" begin="1.25s" dur=".5s" fill="freeze"/></text>
+<text x="812" y="166" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#86EFAC">"MERN"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"AI"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#86EFAC">"Cloud"</tspan><tspan fill="#94A3B8">],</tspan><animate attributeName="opacity" from="0" to="1" begin="1.7000000000000002s" dur=".5s" fill="freeze"/></text>
+<text x="812" y="191" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#7DD3FC">cgpa</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#FBBF24">9.57</tspan><tspan fill="#94A3B8">,</tspan><animate attributeName="opacity" from="0" to="1" begin="2.1500000000000004s" dur=".5s" fill="freeze"/></text>
+<text x="812" y="216" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#7DD3FC">projects</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"10+"</tspan><tspan fill="#94A3B8">,</tspan><animate attributeName="opacity" from="0" to="1" begin="2.6s" dur=".5s" fill="freeze"/></text>
+<text x="812" y="241" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#7DD3FC">location</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"India"</tspan><tspan fill="#94A3B8">,</tspan><animate attributeName="opacity" from="0" to="1" begin="3.05s" dur=".5s" fill="freeze"/></text>
+<text x="788" y="266" font-family="Fira Code, Consolas, Menlo, monospace" font-size="15" opacity="0"><tspan fill="#94A3B8">};</tspan><animate attributeName="opacity" from="0" to="1" begin="3.5s" dur=".5s" fill="freeze"/></text>
+  <rect x="788" y="252" width="9" height="18" fill="#7C4DFF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+
+  <g transform="translate(712 76)">
+  <animateTransform attributeName="transform" type="translate" values="712 76;712 62;712 76" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5s" begin="0s" repeatCount="indefinite"/>
+  <polygon points="0,-24 20.78,-12.0 0,0 -20.78,-12.0" fill="#A78BFA" stroke="#fff" stroke-opacity=".3"/>
+  <polygon points="-20.78,-12.0 0,0 0,24 -20.78,12.0" fill="#7C4DFF" stroke="#fff" stroke-opacity=".2"/>
+  <polygon points="0,0 20.78,-12.0 20.78,12.0 0,24" fill="#5B34D6" stroke="#fff" stroke-opacity=".2"/>
+</g>
+  <g transform="translate(1152 292)">
+  <animateTransform attributeName="transform" type="translate" values="1152 292;1152 278;1152 292" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="6s" begin="1s" repeatCount="indefinite"/>
+  <polygon points="0,-30 25.98,-15.0 0,0 -25.98,-15.0" fill="#67E8F9" stroke="#fff" stroke-opacity=".3"/>
+  <polygon points="-25.98,-15.0 0,0 0,30 -25.98,15.0" fill="#22D3EE" stroke="#fff" stroke-opacity=".2"/>
+  <polygon points="0,0 25.98,-15.0 25.98,15.0 0,30" fill="#0E9FBC" stroke="#fff" stroke-opacity=".2"/>
+</g>
+  <g transform="translate(736 292)">
+  <animateTransform attributeName="transform" type="translate" values="736 292;736 278;736 292" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="4.5s" begin="0.5s" repeatCount="indefinite"/>
+  <polygon points="0,-17 14.72,-8.5 0,0 -14.72,-8.5" fill="#FF80AB" stroke="#fff" stroke-opacity=".3"/>
+  <polygon points="-14.72,-8.5 0,0 0,17 -14.72,8.5" fill="#FF4081" stroke="#fff" stroke-opacity=".2"/>
+  <polygon points="0,0 14.72,-8.5 14.72,8.5 0,17" fill="#C2185B" stroke="#fff" stroke-opacity=".2"/>
+</g>
+  <g transform="translate(1168 56)">
+  <animateTransform attributeName="transform" type="translate" values="1168 56;1168 42;1168 56" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5.5s" begin="1.5s" repeatCount="indefinite"/>
+  <polygon points="0,-15 12.99,-7.5 0,0 -12.99,-7.5" fill="#FDE68A" stroke="#fff" stroke-opacity=".3"/>
+  <polygon points="-12.99,-7.5 0,0 0,15 -12.99,7.5" fill="#FBBF24" stroke="#fff" stroke-opacity=".2"/>
+  <polygon points="0,0 12.99,-7.5 12.99,7.5 0,15" fill="#D4950A" stroke="#fff" stroke-opacity=".2"/>
+</g>
+</g>
+<rect x="1" y="1" width="1198" height="338" rx="25" stroke="url(#edge)" stroke-width="2"/>
+</svg>
