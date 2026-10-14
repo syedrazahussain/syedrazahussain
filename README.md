@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=6,11,20&text=SYED%20RAZA%20HUSSAIN&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20AI%20%26%20LLM%20Engineer&descSize=18&descAlignY=60&stroke=7C4DFF&strokeWidth=2" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Syed Raza Hussain — Full-Stack Developer" />
 
 <h3>A Passionate Software Developer from India &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; MERN Stack Developer &nbsp;|&nbsp; Database Engineer</h3>
 
@@ -13,16 +13,34 @@
 <a href="mailto:srazahussain123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://github.com/syedrazahussain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 <a href="tel:+918639945414"><img src="https://img.shields.io/badge/Call-00C853?style=for-the-badge&logo=googlephone&logoColor=white" alt="phone" /></a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=syedrazahussain&label=Profile+Views&color=7C4DFF&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/syedrazahussain?style=for-the-badge&logo=github&color=00E5FF&labelColor=0D1117" alt="followers" />
 <img src="https://img.shields.io/github/stars/syedrazahussain?style=for-the-badge&logo=github&color=FFD600&labelColor=0D1117" alt="stars" />
 
+<br/><br/>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-1F2937?style=flat-square" alt="about" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-1F2937?style=flat-square" alt="stack" /></a>
+<a href="#education"><img src="https://img.shields.io/badge/Education-1F2937?style=flat-square" alt="education" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-1F2937?style=flat-square" alt="experience" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-1F2937?style=flat-square" alt="projects" /></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/Achievements-1F2937?style=flat-square" alt="achievements" /></a>
+<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-1F2937?style=flat-square" alt="analytics" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-1F2937?style=flat-square" alt="connect" /></a>
+
+<br/><br/>
+
+<img src="assets/metrics.svg" width="100%" alt="Key metrics" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<br/>
 
-## 🚀 About Me
+<a id="about"></a>
+<img src="assets/h-about.svg" width="100%" alt="About Me" />
 
 <table>
 <tr>
@@ -45,9 +63,10 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧰 Tech Stack
+<a id="stack"></a>
+<img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
 
 <table>
 <tr>
@@ -146,13 +165,14 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎓 Education
+<a id="education"></a>
+<img src="assets/h-education.svg" width="100%" alt="Education" />
 
 <table>
 <tr>
-<td width="22%" align="center"><b>🎓 2022 – 2026</b></td>
+<td width="20%" align="center"><b>🎓 2022 – 2026</b></td>
 <td>Bachelor of Technology (B.Tech) — <b>Computer Science and Engineering</b><br/>at <b>B.E.S.T Innovation University</b></td>
 <td width="22%" align="center"><img src="https://img.shields.io/badge/CGPA-9.57%2F10-7C4DFF?style=for-the-badge" alt="cgpa" /></td>
 </tr>
@@ -168,9 +188,10 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 Experience
+<a id="experience"></a>
+<img src="assets/h-experience.svg" width="100%" alt="Experience" />
 
 <table>
 <tr>
@@ -189,13 +210,16 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 💼 Selected Projects
+<a id="projects"></a>
+<img src="assets/h-projects.svg" width="100%" alt="Selected Projects" />
 
 <table>
 <tr>
 <td>
+
+<img src="assets/bar-1.svg" width="100%" alt="" />
 
 ### 🤖 RisbenAI — AI-Powered Career Preparation Platform
 **Description:** Built an AI platform that helps job seekers improve resume quality, identify skill gaps, gain actionable career insights, and plan personalized career growth.
@@ -214,6 +238,8 @@
 <tr>
 <td>
 
+<img src="assets/bar-2.svg" width="100%" alt="" />
+
 ### 🛠️ Tools Haven — Tool Renting Platform
 **Description:** Role-based tool-sharing platform with real-time updates & notifications; reduced missed returns by **50%** and improved engagement by **70%**.
 
@@ -231,6 +257,8 @@
 <tr>
 <td>
 
+<img src="assets/bar-3.svg" width="100%" alt="" />
+
 ### 🚗 Vehicall
 **Description:** Platform to contact vehicle owners in parking zones via secure DB access and phone integration, cutting retrieval time by **60%**.
 
@@ -247,6 +275,8 @@
 <table>
 <tr>
 <td>
+
+<img src="assets/bar-4.svg" width="100%" alt="" />
 
 ### 🏥 BedMitra — Real-Time ICU Bed Availability Platform
 **Description:** The platform connects patients, hospitals, and administrators, allowing hospitals to update ICU bed availability and enabling users to search for nearby hospitals based on real-time availability.
@@ -272,6 +302,8 @@
 <tr>
 <td>
 
+<img src="assets/bar-5.svg" width="100%" alt="" />
+
 ### ⚙️ Internshala Automation Tool
 **Description:** Automated internship applications using headless browser scripting, reducing manual effort by **95%** and boosting reach by **4x**.
 
@@ -289,6 +321,8 @@
 <tr>
 <td>
 
+<img src="assets/bar-6.svg" width="100%" alt="" />
+
 ### 🏢 Civiclink
 **Description:** Multi-role dashboard to report civic issues (water, garbage, roads), improving complaint resolution efficiency by **40%**.
 
@@ -302,9 +336,10 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🥇 Achievements & Highlights
+<a id="achievements"></a>
+<img src="assets/h-achievements.svg" width="100%" alt="Achievements and Highlights" />
 
 <table>
 <tr>
@@ -333,9 +368,10 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Analytics
+<a id="analytics"></a>
+<img src="assets/h-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -344,17 +380,28 @@
 
 <br/><br/>
 
-## 📈 Contribution Graph
+### 🧊 3D Contribution Graph
+
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/syedrazahussain/syedrazahussain/output/github-snake-dark.svg" width="100%" alt="snake" />
+
+### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedrazahussain&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF" width="100%" alt="activity graph" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📬 Connect With Me
+<a id="connect"></a>
+<img src="assets/h-connect.svg" width="100%" alt="Connect With Me" />
 
 <div align="center">
+
+<br/>
 
 <a href="https://www.linkedin.com/in/syedrazahussain1512"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://syedrazahussainportfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
