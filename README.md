@@ -11,7 +11,7 @@
 - 🔭 Working on **Personal** and **open-source projects**.  
 - 🌱 Learning **Data Structures & Algorithms (DSA)** to enhance problem-solving skills.  
 - 💻 Experienced in developing **secure, scalable, and high-performance web apps** using the MERN stack.
-- 👨‍💻 Completed **4+ Production-ready** and **Problem solving** Projects.  
+- 👨‍💻 Completed **10+ Production-ready** and **Problem solving** Projects.  
 - 🧠 Focused on **clean code**, **system design**, and **modern web performance optimization**.  
 - 📫 Reach me at **srazahussain123@gmail.com** | 📱 **+91 8639945414**
 - 🌐 Portfolio: **https://syedrazahussainportfolio.pages.dev**
