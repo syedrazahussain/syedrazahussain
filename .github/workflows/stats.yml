@@ -1,9 +1,14 @@
-name: Update Stat Cards
+name: Update Profile Cards
 
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/stats.yml"
 
 permissions:
   contents: write
@@ -14,37 +19,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download stat cards into the repo
-        run: |
-          mkdir -p assets/generated
-          U="${{ github.repository_owner }}"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-          fetch() {
-            out="$1"; url="$2"
-            for i in 1 2 3 4; do
-              if curl -fsSL --max-time 60 -A "Mozilla/5.0" "$url" -o /tmp/card.svg \
-                 && grep -qi "<svg" /tmp/card.svg \
-                 && ! grep -qiE "rate limit|something went wrong|error fetching" /tmp/card.svg; then
-                mv /tmp/card.svg "assets/generated/$out"
-                echo "OK: $out"
-                return 0
-              fi
-              sleep 20
-            done
-            echo "FAILED: $out (previous version kept, if any)"
-          }
-
-          fetch stats.svg    "https://github-readme-stats.vercel.app/api?username=$U&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&icon_color=00E5FF&text_color=C9D1D9&ring_color=7C4DFF&border_radius=16"
-          fetch top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=$U&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C4DFF&text_color=C9D1D9&border_radius=16"
-          fetch streak.svg   "https://streak-stats.demolab.com/?user=$U&theme=tokyonight&hide_border=true&background=0D1117&ring=7C4DFF&fire=FF6D00&currStreakLabel=00E5FF&border_radius=16"
-          fetch trophies.svg "https://github-profile-trophy.vercel.app/?username=$U&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"
-          fetch activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=$U&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C4DFF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF"
+      - name: Generate cards from the GitHub API
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/generate_cards.py
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/generated
-          git commit -m "chore: refresh stat cards" || exit 0
+          git commit -m "chore: refresh profile cards" || exit 0
           git pull --rebase || true
           git push
