@@ -23,9 +23,9 @@
   <circle cx="34" cy="91" r="4" fill="#7C4DFF"/>
   <text x="48" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="start">Commits (last year)</text>
   <text x="300" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="end">163</text>
-  <circle cx="34" cy="157" r="4" fill="#4ADE80"/>
-  <text x="48" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="start">Public Repos</text>
-  <text x="300" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="end">29</text>
+  <circle cx="34" cy="113" r="4" fill="#4ADE80"/>
+  <text x="48" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#CBD5E1" text-anchor="start">Public Repos</text>
+  <text x="300" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F1F5F9" text-anchor="end">29</text>
   <circle cx="400" cy="112" r="46" stroke="#ffffff" stroke-opacity=".08" stroke-width="9"/>
   <circle cx="400" cy="112" r="46" stroke="url(#ring)" stroke-width="9" stroke-linecap="round" stroke-dasharray="162.3 289.0" transform="rotate(-90 400 112)"/>
   <text x="400" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#F1F5F9" text-anchor="middle">205</text>
